@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Full Stack Development & AI**
 - 💻 Working on **Machine Learning and Web Projects**
 - 🚀 Building projects like **MoodWave**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **yashvikas07@gmail.com**
 - ⚡ Fun fact: **I love building real-world tech projects**
 
 ---
