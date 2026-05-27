@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Patil</h1>
+<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
 
-<!--
-**YASHPATIL-777/YASHPATIL-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Full Stack Development & AI**
+- 💻 Working on **Machine Learning and Web Projects**
+- 🚀 Building projects like **MoodWave**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: **I love building real-world tech projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashpatil777)
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎵 MoodWave
+AI-powered music recommendation system using:
+- Weather Detection
+- Facial Emotion Recognition
+- User Preferences
+
+### 🌦 Weather Music Recommendation
+Smart music recommendations based on weather conditions.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YASHPATIL-777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHPATIL-777&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Quote
+
+> “Consistency beats motivation.” 🚀
