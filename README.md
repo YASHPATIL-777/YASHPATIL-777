@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=250&section=header&text=Yash%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python&descAlignY=60" />
+</p>
+
 # Hi 👋, I'm Yash Patil
 
 ## 📊 Aspiring Data Analyst from India
@@ -6,14 +10,14 @@
 - 📊 Building real-world Data Analytics and Business Intelligence projects
 - 🧠 Interested in Data Visualization, Dashboard Development & Insights Generation
 - 🚀 Exploring Power BI, DAX, Power Query and Data Storytelling
-- 📫 Reach me at: yashvikas4@gmail.com
+- 📫 Reach me at: yashvikas07@gmail.com
 - 💼 Open to Data Analyst Internships and Entry-Level Opportunities
 
 ---
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yashpatil777)
+[LinkedIn](https://www.linkedin.com/in/yashpatil777-)
 
 ---
 
@@ -54,3 +58,4 @@
 - Python for Data Analysis
 - Data Storytelling
 
+---
