@@ -1,55 +1,56 @@
-<h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
+# Hi 👋, I'm Yash Patil
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 📊 Aspiring Data Analyst from India
 
-- 🌱 I’m currently learning **Full Stack Development & AI**
-- 💻 Working on **Machine Learning and Web Projects**
-- 🚀 Building projects like **MoodWave**
-- 📫 Reach me at: **yashvikas07@gmail.com**
-- ⚡ Fun fact: **I love building real-world tech projects**
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashpatil777)
+- 📈 Currently learning Data Analytics, Power BI, SQL, Excel & Python
+- 📊 Building real-world Data Analytics and Business Intelligence projects
+- 🧠 Interested in Data Visualization, Dashboard Development & Insights Generation
+- 🚀 Exploring Power BI, DAX, Power Query and Data Storytelling
+- 📫 Reach me at: yashvikas4@gmail.com
+- 💼 Open to Data Analyst Internships and Entry-Level Opportunities
 
 ---
 
-## 🚀 Languages and Tools
+## 🌐 Connect with Me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,vscode,mysql" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/yashpatil777)
+
+---
+
+## 🛠️ Data Analytics Toolkit
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎵 MoodWave
-AI-powered music recommendation system using:
-- Weather Detection
-- Facial Emotion Recognition
-- User Preferences
+### 📱 Mobile Sales Dashboard (Power BI)
+- Interactive sales dashboard built using Power BI
+- Used DAX Measures, Power Query and Data Modeling
+- Analyzed sales performance, customer ratings and payment methods
 
-### 🌦 Weather Music Recommendation
-Smart music recommendations based on weather conditions.
+### 👥 HR Analytics Dashboard
+- Employee attrition analysis
+- KPI tracking and workforce insights
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YASHPATIL-777&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHPATIL-777&theme=tokyonight" />
-</p>
+### 🛒 E-Commerce Sales Dashboard
+- Revenue, profit and customer analysis
+- Business performance reporting
 
 ---
 
-## 💡 Quote
+## 📚 Currently Learning
 
-> “Consistency beats motivation.” 🚀
+- Advanced SQL
+- Power BI (Advanced DAX)
+- Statistics for Data Analytics
+- Python for Data Analysis
+- Data Storytelling
+
